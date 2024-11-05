@@ -8,7 +8,7 @@ on:
         required: true
         description: Device Model
         type: choice
-        default: jdc_ax1800pro-ax6600_libwrt
+        default: jdc_ax1800pro-ax6600_immwrt
         options:
           - jdc_ax1800pro-ax6600_ipqwrt
           - jdc_ax1800pro-ax6600_libwrt
