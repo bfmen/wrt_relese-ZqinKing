@@ -8,7 +8,7 @@ sudo bash -c 'bash <(curl -sL https://build-scripts.immortalwrt.org/init_build_e
 
 使用步骤：  
 git clone https://github.com/bfmen/wrt_relese-ZqinKing.git  
-cd rt_relese-ZqinKing 
+cd wrt_relese-ZqinKing 
   
 编译京东云雅典娜、亚瑟:  
 ./build.sh jdc_ax1800pro-ax6600_libwrt  
