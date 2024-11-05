@@ -108,7 +108,7 @@ install_small8() {
         trojan-plus simple-obfs shadowsocksr-libev luci-app-passwall alist luci-app-alist  \
         v2dat mosdns luci-app-mosdns taskd luci-lib-xterm \
         luci-lib-taskd luci-app-cloudflarespeedtest \
-        luci-theme-argon netdata luci-app-netdata lucky luci-app-lucky
+        luci-theme-argon netdata luci-app-netdata lucky luci-app-lucky luci-app-homeproxy
 }
 
 install_feeds() {
