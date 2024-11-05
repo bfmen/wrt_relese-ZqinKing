@@ -105,9 +105,9 @@ update_golang() {
 install_small8() {
     ./scripts/feeds install -p small8 -f xray-core xray-plugin dns2tcp dns2socks haproxy hysteria naiveproxy \
         shadowsocks-rust sing-box v2ray-core v2ray-geodata v2ray-plugin tuic-client chinadns-ng ipt2socks tcping \
-        trojan-plus simple-obfs shadowsocksr-libev luci-app-passwall alist luci-app-alist   \
-        v2dat mosdns luci-app-mosdns  taskd luci-lib-xterm \
-        luci-lib-taskd quickstart luci-app-cloudflarespeedtest \
+        trojan-plus simple-obfs shadowsocksr-libev luci-app-passwall alist luci-app-alist  \
+        v2dat mosdns luci-app-mosdns taskd luci-lib-xterm \
+        luci-lib-taskd luci-app-cloudflarespeedtest \
         luci-theme-argon netdata luci-app-netdata lucky luci-app-lucky
 }
 
