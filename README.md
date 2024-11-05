@@ -12,6 +12,7 @@ cd wrt_relese-ZqinKing
   
 编译京东云雅典娜、亚瑟:  
 ./build.sh jdc_ax1800pro-ax6600_libwrt  
+./build.sh jdc_ax1800pro-ax6600_immwrt
 
 编译红米AX6000:  
 ./build.sh redmi_ax6000_immwrt21  
